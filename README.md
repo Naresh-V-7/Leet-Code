@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/Naresh-V-7/Leet-Code/tree/master/2540-minimum-common-value) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Naresh-V-7/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Naresh-V-7/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
