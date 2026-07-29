@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Naresh-V-7/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Naresh-V-7/Leet-Code/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Naresh-V-7/Leet-Code/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
