@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Naresh-V-7/Leet-Code/tree/master/1025-divisor-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/Naresh-V-7/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Naresh-V-7/Leet-Code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Naresh-V-7/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Naresh-V-7/Leet-Code/tree/master/1025-divisor-game) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Naresh-V-7/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
