@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/Naresh-V-7/Leet-Code/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Naresh-V-7/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Naresh-V-7/Leet-Code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Naresh-V-7/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Naresh-V-7/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
